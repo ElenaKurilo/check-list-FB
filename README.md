@@ -2,7 +2,7 @@
 *****
 Чек-лист составлен для страниц Log In, Sign Up, Forgot Password на сайте [facebook.com](https://www.facebook.com/).
 
-Для удобства просмотра идеи проверок сведены в таблицы в файле Exel, содержащем три листа: Log In, Sign Up, Forgot Password.
+Для удобства просмотра идеи проверок сведены в таблицы в файле Excel, содержащем три листа: Log In, Sign Up, Forgot Password.
 
 Для каждой из проверок выставлен приоритет (smoke, crirtical path, extended).
 
